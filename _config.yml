@@ -1,7 +1,7 @@
 name: 'Beach & Niman, LLP'
 favicon: null
-layout_spectrum: 0.7438825892750174
-typography_spectrum: 0.026266122702509165
+layout_spectrum: 0.249
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.0632663001306355
-  lightness: 0.0110239137429744
-  saturation: 0.32846945035271347
+    - '#ffffff'
+    - '#92a4bc'
+    - '#686b74'
+    - '#3a4450'
+    - '#e7e8ea'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.125
   rhythmicContrast: 0.9653275774326175
 purpose: []
