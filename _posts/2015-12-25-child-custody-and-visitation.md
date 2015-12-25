@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Beach & Niman attorneys answer questions about child custody in California.'
-datePublished: '2015-12-25T06:12:06.352Z'
-dateModified: '2015-12-25T06:11:49.447Z'
+datePublished: '2015-12-25T06:36:03.427Z'
+dateModified: '2015-12-25T06:35:57.995Z'
 title: Child Custody and Visitation
 author: []
 sourcePath: _posts/2015-12-25-child-custody-and-visitation.md
@@ -22,7 +22,7 @@ url: child-custody-and-visitation/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa6af5e-8307-46ef-8d0f-2f754d81b838.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/12f649b5d148fc6798e972e10bfa1b5a2b52d181.jpg)
 
 ## 
 
