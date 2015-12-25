@@ -6,33 +6,35 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Beach & Niman attorneys answer questions about child custody in California.'
-datePublished: '2015-12-25T06:01:26.181Z'
-dateModified: '2015-12-25T06:00:32.336Z'
+datePublished: '2015-12-25T06:12:06.352Z'
+dateModified: '2015-12-25T06:11:49.447Z'
 title: Child Custody and Visitation
 author: []
+sourcePath: _posts/2015-12-25-child-custody-and-visitation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-25-child-custody-and-visitation.md
-published: true
 url: child-custody-and-visitation/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa6af5e-8307-46ef-8d0f-2f754d81b838.jpg)
+
 ## 
 
 # _Child Custody and Visitation_
 
-Without question, the most difficult part of a [divorce][0]that includes children is determining who is awarded custody and what kind of visitation the other parent has. Even uncontested divorces where [property allocation][1] and [spousal support][2]are agreed upon can turn ugly when it comes time to decide which parent has primary physical custody of the children. One reason for this is because child custody impacts how much [child support][3]the non-custodial parent is expected to pay. More often, however, the fight is an emotional one because both parents love their children. Below are some of the questions the custody attorneys at Beach & Niman answer most frequently. 
+Without question, the most difficult part of a [divorce][0] that includes children is determining who is awarded custody and what kind of visitation the other parent has. Even uncontested divorces where [property allocation][1] and [spousal support][2] are agreed upon can turn ugly when it comes time to decide which parent has primary physical custody of the children. One reason for this is because child custody impacts how much [child support][3] the non-custodial parent is expected to pay. More often, however, the fight is an emotional one because both parents love their children. Below are some of the questions the custody attorneys at Beach & Niman answer most frequently. 
 
 **How Is Custody Awarded In California?**
 
 Experienced family law attorneys know that the best way to resolve child custody issues is for the parents to agree to a child custody plan. Like most aspects of family law, when parents can agree to a custody schedule both parents generally end up happier, and the children are spared an extended, hurtful litigation process. So long as parents do not create a plan that is somehow manifestly unfair to the children, most family law judges will sign off on it. The guidance of a child custody attorney is very helpful in drafting a child custody agreement that a judge will approve, and your attorney can frequently include provisions for child custody into a general [marital dissolution agreement][0].
 
-However, sometimes parents just can't agree. In this case, hiring an experienced family law attorney is essential. California family law judges have an incredible amount of discretion when awarding custody of children and, as mentioned above, this decision also impacts [child support][3]awards. Although there are guidelines as to how judges are supposed to award child custody, this enormous amount of discretion allows judges to do essentially [whatever they want. ][4]
+However, sometimes parents just can't agree. In this case, hiring an experienced family law attorney is essential. California family law judges have an incredible amount of discretion when awarding custody of children and, as mentioned above, this decision also impacts [child support][3] awards. Although there are guidelines as to how judges are supposed to award child custody, this enormous amount of discretion allows judges to do essentially [whatever they want. ][4]
 
 **What Guidelines Must Judges Follow When Awarding Custody Of Children?**
 
@@ -46,7 +48,7 @@ Judges are empowered to make a temporary custody order while the mediation phase
 
 When parents decide to litigate child custody rather than come to an agreement, the court will order mediation before making a decision. This is a final attempt at getting the parents to agree to a custody order - something judges prefer and parents ought to want once they understand what's at stake. This mediation is frequently offered as a free service to the parents, and the child custody evaluator will report his or her findings back to the judge. Generally this involves interviewing the parents individually, interviewing them together, interviewing each parent with the children present, and (depending on the child's age) interviewing the children separately. Sometimes child custody evaluators will interview friends, neighbors, teachers, doctors, and other people who can offer insight as to the family as a whole. The evaluator then provides a written report to the judge, generally 20-50 pages in length, and the judge is permitted to use this report as evidence when making his or her final determination. 
 
-[Family Code § 3020][5]provides the criteria by which a judge must determine what is in the best interests of the children. The court will investigate:
+[Family Code][5][][6][§ 3020][5] provides the criteria by which a judge must determine what is in the best interests of the children. The court will investigate:
 
 * The health, safety, and welfare of the child
 * Any history of child abuse or domestic violence by each parent
@@ -59,7 +61,7 @@ Notably, these factors often involve evaluations of many sub-factors, including 
 
 If your child is 18 years or older, then the court will. Otherwise, the wishes of the child are just another factor that the judge takes into account when awarding custody. Broadly speaking, judges often give enhanced weight to the opinions of children aged 12 or older, and less weight to the desires of younger children. It is important to remember that children are minors, and that it is the duty of their parents to choose for them what is best. 
 
-The "12-or-older" guideline is not a rule, however. [Family Code § 3042][6]states, in part, that "if a child is of sufficient age and capacity to reason so as to form an intelligent preference as to custody, the court shall consider and give due weight to the wishes of the child in making an award of custody or modification thereof." The same section permits children 14 years or older to directly address the court as to their preference, unless the judge believes it is not in the child's best interests. With the judge's permission, even younger children may address the court.
+The "12-or-older" guideline is not a rule, however. [Family Code § 3042][7] states, in part, that "if a child is of sufficient age and capacity to reason so as to form an intelligent preference as to custody, the court shall consider and give due weight to the wishes of the child in making an award of custody or modification thereof." The same section permits children 14 years or older to directly address the court as to their preference, unless the judge believes it is not in the child's best interests. With the judge's permission, even younger children may address the court.
 
 This is yet another reason why it is often beneficial for parents to come to a custody agreement rather than litigating the issue. Sometimes, even if a child really wants to live with one parent, a judge will order that child to live with the other parent, believing it to be in that child's best interests. You can, no doubt, imagine how that makes the child feel. 
 
@@ -85,7 +87,6 @@ Visitation is most often affected when one parent decides to move away, effectiv
 **Still Have Questions?**
 
 This page just touches on the complex issue of custody law, and even then only in the context of a divorce. If you have a child custody issue, please take a moment to talk with us. We can better explain how the law applies to your specific situation once we know the facts of your unique issue. This is particularly important if, instead of a divorce, you are facing an action by the Department of Children and Social Services (DCSS) to take your children. Please feel free to call us at 760-472-3193, or use the form below to request your free consultation with a child custody attorney at Beach & Niman.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa6af5e-8307-46ef-8d0f-2f754d81b838.jpg)
 
 [0]: http://www.bnnlegal.com/divorce.html
 [1]: http://www.bnnlegal.com/property-allocation.html
@@ -93,4 +94,5 @@ This page just touches on the complex issue of custody law, and even then only i
 [3]: http://www.bnnlegal.com/child-support.html
 [4]: http://www.bnnlegal.com/blog/california-courts-receive-a-failing-grade-in-child-custody
 [5]: http://www.leginfo.ca.gov/cgi-bin/displaycode?section=fam&group=03001-04000&file=3020-3032
-[6]: http://www.leginfo.ca.gov/cgi-bin/displaycode?section=fam&group=03001-04000&file=3040-3049
+[6]: null
+[7]: http://www.leginfo.ca.gov/cgi-bin/displaycode?section=fam&group=03001-04000&file=3040-3049
